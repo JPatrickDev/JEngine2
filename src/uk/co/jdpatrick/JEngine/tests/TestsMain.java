@@ -3,8 +3,8 @@ package uk.co.jdpatrick.JEngine.tests;
 import uk.co.jdpatrick.JEngine.JEngine;
 
 /**
- * Author: Jack
- * Date: 12/04/14
+ * @author Jack Patrick
+ *
  */
 public class TestsMain {
 

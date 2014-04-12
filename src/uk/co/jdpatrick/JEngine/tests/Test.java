@@ -6,8 +6,8 @@ import org.newdawn.slick.Graphics;
 import org.newdawn.slick.SlickException;
 
 /**
- * Author: Jack
- * Date: 12/04/14
+ * @author Jack Patrick
+ *
  */
 public class Test extends BasicGame{
 

@@ -7,8 +7,7 @@ import org.newdawn.slick.SlickException;
 /**
  * JEngine class with static methods for starting a game
  *
- * Author: Jack
- * Date: 12/04/14
+ * @author Jack Patrick
  */
 public class JEngine {
 
