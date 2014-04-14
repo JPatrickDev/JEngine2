@@ -3,6 +3,8 @@ package uk.co.jdpatrick.JEngine.Entity;
 import org.newdawn.slick.Graphics;
 
 /**
+ * A basic entity, only provides a place to store x and y coordinates.
+ *
  * @author Jack Patrick
  *
  */

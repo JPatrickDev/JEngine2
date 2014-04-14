@@ -1,4 +1,6 @@
 uk.co.jdpatrick.JEngine
 uk.co.jdpatrick.JEngine.Entity
+uk.co.jdpatrick.JEngine.Image
+uk.co.jdpatrick.JEngine.Particle
 uk.co.jdpatrick.JEngine.Sound
 uk.co.jdpatrick.JEngine.tests
