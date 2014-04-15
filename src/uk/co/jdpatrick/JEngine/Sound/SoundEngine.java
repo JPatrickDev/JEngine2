@@ -12,13 +12,19 @@ import java.util.HashMap;
  */
 public class SoundEngine {
 
-    /** The active {@code SoundEngine} only one can be used at a time*/
+    /**
+     * The active {@code SoundEngine} only one can be used at a time
+     */
     private static SoundEngine instance;
 
-    /** HashMap of the sounds, stored with a String key */
+    /**
+     * HashMap of the sounds, stored with a String key
+     */
     private HashMap<String, Sound> sounds = new HashMap<String, Sound>();
 
-    /** If the sound engine is disabled, use to mute or unmute the sound*/
+    /**
+     * If the sound engine is disabled, use to mute or unmute the sound
+     */
     private boolean disabled = false;
 
     /**
@@ -35,10 +41,9 @@ public class SoundEngine {
     }
 
     /**
-     *
      * Add a sound to the SoundEngine
      *
-     * @param key The key associated with the {@code Sound}
+     * @param key   The key associated with the {@code Sound}
      * @param sound The {@code Sound} object to store
      */
     public void addSound(String key, Sound sound) {
@@ -47,7 +52,6 @@ public class SoundEngine {
 
 
     /**
-     *
      * Get the Sound associated with the given key
      *
      * @param key The key to the sound
@@ -64,8 +68,8 @@ public class SoundEngine {
 
 
     /**
-     *  Set if the SoundEngine is disabled
-     *  If the SoundEngine is disabled, sounds will not be played, but sounds can stil be added
+     * Set if the SoundEngine is disabled
+     * If the SoundEngine is disabled, sounds will not be played, but sounds can stil be added
      *
      * @param disable if the SoundEngine should be disabled or not
      */

@@ -4,7 +4,6 @@ import org.newdawn.slick.Color;
 import org.newdawn.slick.Graphics;
 import org.newdawn.slick.fills.GradientFill;
 import org.newdawn.slick.geom.Rectangle;
-import org.newdawn.slick.geom.Shape;
 
 /**
  * A particle to represent blood, can be used to indicate damage.
@@ -51,15 +50,19 @@ public class BloodParticle extends Particle {
         particle.setY(y);
     }
 
-    /** The start colour of the gradient*/
+    /**
+     * The start colour of the gradient
+     */
     Color start = Color.decode("#FF0000");
-    /** The end colour of the gradient*/
+    /**
+     * The end colour of the gradient
+     */
     Color end = Color.decode("#360303");
 
     /**
      * Draw the particle
      *
-     * @param g Graphics object to use for rendering
+     * @param g       Graphics object to use for rendering
      * @param offsetX The offset along the X axis
      * @param offsetY The offset along the Y axis
      */

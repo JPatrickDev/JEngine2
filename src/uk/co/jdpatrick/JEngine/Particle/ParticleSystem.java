@@ -8,20 +8,20 @@ import java.util.Iterator;
 /**
  * A ParticleSystem to keep track of individual particles.
  *
- *
- *
  * @author Jack Patrick
  */
 public class ParticleSystem {
 
-    /** ArrayList of all the Particles belonging to the ParticleSystem*/
+    /**
+     * ArrayList of all the Particles belonging to the ParticleSystem
+     */
     ArrayList<Particle> particles = new ArrayList<Particle>();
 
 
     /**
      * Draw the particles in the ParticleSystem
      *
-     * @param g The Graphics object to use for rendering
+     * @param g       The Graphics object to use for rendering
      * @param offsetX The offset along the X axis
      * @param offsetY The offset along the Y axis
      */

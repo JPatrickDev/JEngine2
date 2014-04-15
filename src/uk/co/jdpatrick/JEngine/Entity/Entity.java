@@ -6,13 +6,16 @@ import org.newdawn.slick.Graphics;
  * A basic entity, only provides a place to store x and y coordinates.
  *
  * @author Jack Patrick
- *
  */
 public abstract class Entity {
 
-    /** X coordinate of the entity */
+    /**
+     * X coordinate of the entity
+     */
     private int x;
-    /** Y coordinate of the entity*/
+    /**
+     * Y coordinate of the entity
+     */
     private int y;
 
     /**
@@ -34,7 +37,7 @@ public abstract class Entity {
     public abstract void render(Graphics g);
 
     /**
-     *  Update the entity(Location, handle input, etc)
+     * Update the entity(Location, handle input, etc)
      */
     public abstract void update();
 
@@ -44,7 +47,7 @@ public abstract class Entity {
      *
      * @return The x coordinate of the Entity
      */
-    public int getX(){
+    public int getX() {
         return x;
     }
 
@@ -53,7 +56,7 @@ public abstract class Entity {
      *
      * @return The y coordinate of the Entity
      */
-    public int getY(){
+    public int getY() {
         return y;
     }
 }

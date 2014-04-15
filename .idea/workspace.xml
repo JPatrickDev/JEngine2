@@ -4,7 +4,7 @@
     <list default="true" id="1db12e68-9d9f-4668-9529-65b3c4906db7" name="Default" comment="" />
     <ignored path="JEngine2.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/JEngine.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397323611277" ignored="false" />
+    <file path="/JEngine.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397519857954" ignored="false" />
     <file path="/Dummy.txt" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397322831164" ignored="false" />
     <file path="J:/LD48/LD27/src/me/jack/ld27/States/InGame.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397322838430" ignored="false" />
     <file path="J:/LD48/LD27/src/me/jack/ld27/Entity/Entity.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397322838430" ignored="false" />
@@ -18,21 +18,28 @@
     <file path="J:/LD48/LD27/src/me/jack/ld27/Entity/EntityPlayer.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397322838430" ignored="false" />
     <file path="/fragment.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397323417553" ignored="false" />
     <file path="/TestsMain.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397493177453" ignored="false" />
-    <file path="/Test.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397491626164" ignored="false" />
+    <file path="/Test.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397529794249" ignored="false" />
     <file path="/Entity.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397338259517" ignored="false" />
     <file path="$PROJECT_DIR$/docs/index-files/index-1.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397330661886" ignored="false" />
     <file path="$PROJECT_DIR$/docs/uk/co/jdpatrick/JEngine/JEngine.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397330661886" ignored="false" />
     <file path="$PROJECT_DIR$/docs/index-files/index-2.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397326309791" ignored="false" />
     <file path="$PROJECT_DIR$/docs/index-files/index-6.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397326237764" ignored="false" />
-    <file path="$PROJECT_DIR$/docs/uk/co/jdpatrick/JEngine/tests/Test.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397494384834" ignored="false" />
+    <file path="$PROJECT_DIR$/docs/uk/co/jdpatrick/JEngine/tests/Test.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397494455572" ignored="false" />
     <file path="$PROJECT_DIR$/docs/index-files/index-9.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397326237764" ignored="false" />
     <file path="$PROJECT_DIR$/docs/uk/co/jdpatrick/JEngine/Entity/Entity.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397326237764" ignored="false" />
     <file path="/SoundEngine.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397330629542" ignored="false" />
     <file path="/ParticleSystem.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397494356996" ignored="false" />
     <file path="/FireParticle.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397493874062" ignored="false" />
     <file path="/BloodParticle.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397492364689" ignored="false" />
-    <file path="/ImageUtil.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397494449686" ignored="false" />
+    <file path="/ImageUtil.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397517704238" ignored="false" />
     <file path="/Particle.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397493803586" ignored="false" />
+    <file path="$PROJECT_DIR$/docs/uk/co/jdpatrick/JEngine/Image/ImageUtil.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397494455572" ignored="false" />
+    <file path="$PROJECT_DIR$/docs/index-files/index-4.html" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397494455572" ignored="false" />
+    <file path="/Level.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397525410641" ignored="false" />
+    <file path="/TiledLevel.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397552104547" ignored="false" />
+    <file path="/tile.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397518077220" ignored="false" />
+    <file path="/Tile.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397526397498" ignored="false" />
+    <file path="/Camera.java" changelist="1db12e68-9d9f-4668-9529-65b3c4906db7" time="1397524162920" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +54,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -83,7 +91,6 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -93,23 +100,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JEngine.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/JEngine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="64" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ParticleSystem.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/ParticleSystem.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#388#398#0" expanded="true" />
-              </folding>
+            <state line="57" column="7" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,7 +112,16 @@
       <file leaf-file-name="Particle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/Particle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="49" column="22" selection-start="1309" selection-end="1336" vertical-scroll-proportion="0.0">
+            <state line="72" column="7" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImageUtil.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Image/ImageUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="7" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,29 +130,7 @@
       <file leaf-file-name="BloodParticle.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/BloodParticle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="67" column="35" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImageUtil.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Image/ImageUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="49" selection-start="196" selection-end="196" vertical-scroll-proportion="0.38795987">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Entity.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Entity/Entity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="26" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
+            <state line="78" column="0" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -157,7 +139,16 @@
       <file leaf-file-name="SoundEngine.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Sound/SoundEngine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
+            <state line="39" column="9" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Entity.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Entity/Entity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="31" column="7" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -166,7 +157,16 @@
       <file leaf-file-name="TestsMain.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/TestsMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="3" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
+            <state line="13" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JEngine.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/JEngine.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="86" column="0" selection-start="2168" selection-end="2168" vertical-scroll-proportion="2.7636888">
               <folding />
             </state>
           </provider>
@@ -175,10 +175,17 @@
       <file leaf-file-name="Test.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="32" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="40" column="42" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Camera.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Camera.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="117" column="9" selection-start="2395" selection-end="2395" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -193,24 +200,29 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/JEngine.java" />
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Sound/SoundEngine.java" />
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Entity/Entity.java" />
         <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/FireParticle.java" />
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/Test.java" />
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/Particle.java" />
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/BloodParticle.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/tile.java" />
         <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/TestsMain.java" />
-        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/ParticleSystem.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Tile.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/TiledLevel.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Level.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Camera.java" />
         <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Image/ImageUtil.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Entity/Entity.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/BloodParticle.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/Particle.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/ParticleSystem.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Sound/SoundEngine.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/Test.java" />
+        <option value="$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/JEngine.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1374" />
-    <option name="y" value="-194" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -358,6 +370,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="Level" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JEngine2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JEngine2" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="JEngine" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="Image" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -400,8 +434,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -410,7 +444,7 @@
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.lastSelected" value="fileTemplates" />
+    <property name="options.lastSelected" value="preferences.fileTypes" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/slick.jar!/" />
@@ -419,10 +453,11 @@
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -453,6 +488,19 @@
       <option name="PROGRAM_PARAMETERS" />
       <method />
     </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -478,19 +526,6 @@
       <envs />
       <properties />
       <listeners />
-      <method />
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -567,27 +602,27 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1374" y="-194" width="1382" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854864" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318182" sideWeight="0.5518341" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.44816586" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24318182" sideWeight="0.6712095" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -657,101 +692,116 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/libs/slick.jar!/org/newdawn/slick/AppGameContainer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="16" selection-start="874" selection-end="874" vertical-scroll-proportion="0.34690267" />
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.7.0_05/src.zip!/java/util/Iterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="17" selection-start="982" selection-end="982" vertical-scroll-proportion="0.3327787">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/JEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="64" selection-start="871" selection-end="871" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="51" column="17" selection-start="982" selection-end="982" vertical-scroll-proportion="0.3327787" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/slick.jar!/org/newdawn/slick/geom/Rectangle.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="11" selection-start="281" selection-end="281" vertical-scroll-proportion="0.35714287">
-          <folding />
-        </state>
+        <state line="10" column="11" selection-start="281" selection-end="281" vertical-scroll-proportion="0.35714287" />
       </provider>
     </entry>
     <entry file="jar://$PROJECT_DIR$/libs/slick.jar!/org/newdawn/slick/Color.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="42" selection-start="1706" selection-end="1706" vertical-scroll-proportion="0.36298934">
+        <state line="42" column="42" selection-start="1706" selection-end="1706" vertical-scroll-proportion="0.36298934" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/TiledLevel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="0" selection-start="354" selection-end="354" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#555#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Tile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="13" selection-start="204" selection-end="204" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Level.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="29" selection-start="795" selection-end="795" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#467#475#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Level/Camera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="9" selection-start="2395" selection-end="2395" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Image/ImageUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="7" selection-start="1929" selection-end="1929" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Entity/Entity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="26" selection-start="366" selection-end="366" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="32" selection-start="771" selection-end="771" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/TestsMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="3" selection-start="112" selection-end="112" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Sound/SoundEngine.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0">
+        <state line="31" column="7" selection-start="586" selection-end="586" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/BloodParticle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="35" selection-start="1667" selection-end="1667" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="78" column="0" selection-start="1970" selection-end="1970" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/Particle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="22" selection-start="1309" selection-end="1336" vertical-scroll-proportion="0.0">
+        <state line="72" column="7" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Particle/ParticleSystem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="203" selection-end="203" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#388#398#0" expanded="true" />
-          </folding>
+        <state line="57" column="7" selection-start="1515" selection-end="1515" vertical-scroll-proportion="0.0">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Image/ImageUtil.java">
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/Sound/SoundEngine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="49" selection-start="196" selection-end="196" vertical-scroll-proportion="0.38795987">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state line="39" column="9" selection-start="949" selection-end="949" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="42" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/tests/TestsMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/uk/co/jdpatrick/JEngine/JEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="0" selection-start="2168" selection-end="2168" vertical-scroll-proportion="2.7636888">
+          <folding />
         </state>
       </provider>
     </entry>

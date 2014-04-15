@@ -11,11 +11,16 @@ import org.newdawn.slick.SlickException;
  */
 public class JEngine {
 
-    /**  The width of the window */
+    /**
+     * The width of the window
+     */
     private static int width = 0;
 
-    /** The height of the window */
+    /**
+     * The height of the window
+     */
     private static int height = 0;
+
     /**
      * Start a game
      *
@@ -28,8 +33,8 @@ public class JEngine {
     /**
      * Start a game with the specified window width and height
      *
-     * @param game The {@code Game} to start
-     * @param width The width of the game window
+     * @param game   The {@code Game} to start
+     * @param width  The width of the game window
      * @param height The height of the game window
      */
     public static void start(Game game, int width, int height) {
@@ -40,18 +45,17 @@ public class JEngine {
      * Start a game with the specified window width and height, and set a target FPS
      * Set the fps variable to 0 to have an unset target FPS
      *
-     *
-     * @param game The {@code Game} to start
-     * @param width The width of the game window
+     * @param game   The {@code Game} to start
+     * @param width  The width of the game window
      * @param height The height of the game window
-     * @param fps The target FPS
+     * @param fps    The target FPS
      */
     public static void start(Game game, int width, int height, int fps) {
         try {
             AppGameContainer agc = new AppGameContainer(game);
-            agc.setDisplayMode(width,height,false);
-            if(fps != 0)
-            agc.setTargetFrameRate(fps);
+            agc.setDisplayMode(width, height, false);
+            if (fps != 0)
+                agc.setTargetFrameRate(fps);
             JEngine.width = width;
             JEngine.height = height;
             agc.start();
@@ -67,8 +71,8 @@ public class JEngine {
      *
      * @return The width of the game window
      */
-    public static int getWidth(){
-        return  JEngine.width;
+    public static int getWidth() {
+        return JEngine.width;
     }
 
     /**
@@ -76,7 +80,7 @@ public class JEngine {
      *
      * @return The height of the game window
      */
-    public static int getHeight(){
-        return JEngine.getHeight();
+    public static int getHeight() {
+        return JEngine.height;
     }
 }
