@@ -5,3 +5,5 @@ uk.co.jdpatrick.JEngine.Level
 uk.co.jdpatrick.JEngine.Particle
 uk.co.jdpatrick.JEngine.Sound
 uk.co.jdpatrick.JEngine.tests
+uk.co.jdpatrick.JEngine.ui
+uk.co.jdpatrick.JEngine.ui.Elements

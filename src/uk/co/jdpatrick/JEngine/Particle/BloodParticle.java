@@ -24,8 +24,8 @@ public class BloodParticle extends Particle {
         xx = x;
         yy = y;
 
-        xa = random.nextGaussian() * 1.2;
-        ya = random.nextGaussian() * 1.2;
+        xa = random.nextGaussian() * 1.5;
+        ya = random.nextGaussian() * 1.5;
 
         particle = new Rectangle((float) xx, (float) yy, 10, 10);
     }
@@ -40,12 +40,27 @@ public class BloodParticle extends Particle {
         time++;
         if (time > 50) {
             system.removeParticle(this);
+            xa /= 20;
+            ya/=20;
         }
         xx += xa;
         yy += ya;
 
         x = (int) xx;
         y = (int) yy;
+
+        if(xa > 0){
+            xa-=0.05;
+        }else{
+            xa+=0.05;
+        }
+
+        if(ya > 0){
+            ya-=0.1;
+        }else{
+            ya+=0.1;
+        }
+
         particle.setX(x);
         particle.setY(y);
     }
