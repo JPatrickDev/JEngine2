@@ -56,6 +56,8 @@ public class JEngine {
             agc.setDisplayMode(width, height, false);
             if (fps != 0)
                 agc.setTargetFrameRate(fps);
+
+            agc.setUpdateOnlyWhenVisible(false);
             JEngine.width = width;
             JEngine.height = height;
             agc.start();

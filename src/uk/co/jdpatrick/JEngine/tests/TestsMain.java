@@ -8,6 +8,6 @@ import uk.co.jdpatrick.JEngine.JEngine;
 public class TestsMain {
 
     public static void main(String[] args) {
-        JEngine.start(new Test("JEngine tests"), 800, 600, 60);
+        JEngine.start(new Test("JEngine tests"), 1000, 1000, 30);
     }
 }
