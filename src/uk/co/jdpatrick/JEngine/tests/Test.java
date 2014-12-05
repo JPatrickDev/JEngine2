@@ -5,10 +5,12 @@ import org.newdawn.slick.GameContainer;
 import org.newdawn.slick.Graphics;
 import org.newdawn.slick.SlickException;
 import org.newdawn.slick.geom.Point;
+import org.newdawn.slick.util.pathfinding.AStarPathFinder;
 import org.newdawn.slick.util.pathfinding.PathFindingContext;
 import org.newdawn.slick.util.pathfinding.TileBasedMap;
 import uk.co.jdpatrick.JEngine.AI.AIEntity;
 import uk.co.jdpatrick.JEngine.AI.AIPathfinder;
+import uk.co.jdpatrick.JEngine.AI.AIPathfinderGenerator;
 import uk.co.jdpatrick.JEngine.AI.Movement.SmoothMovement;
 import uk.co.jdpatrick.JEngine.AI.Movement.TileBased;
 import uk.co.jdpatrick.JEngine.Entity.Entity;
@@ -72,12 +74,15 @@ public class Test extends JEngineGame {
         public int h;
         public int[] tiles;
 
+        public AIPathfinderGenerator generator;
+
         ArrayList<Entity> entities = new ArrayList<Entity>();
 
         public Level(int w, int h) {
             this.w = w;
             this.h = h;
             this.tiles = new int[w * h];
+            generator = new AIPathfinderGenerator(this, new AStarPathFinder(this,200,false));
         }
 
 
@@ -134,7 +139,7 @@ public class Test extends JEngineGame {
     class BaseEntity extends AIEntity {
 
         Level parent;
-
+        AIPathfinder aiPathfinder;
         Color c;
         /**
          * Create a new Entity
@@ -145,9 +150,11 @@ public class Test extends JEngineGame {
         public BaseEntity(int x, int y, Level parent) {
             super(x, y);
             this.parent = parent;
-            pathfinder = new AIPathfinder(parent,this, new TileBased(20));
+
             Random r = new Random();
-            pathfinder.setTarget( new Point(r.nextInt(4),r.nextInt(4)));
+            Point p = new Point(r.nextInt(50),r.nextInt(50));
+            aiPathfinder = parent.generator.calculatePath(p,this,new TileBased(20));
+            System.out.println("Entity: " + String.valueOf(aiPathfinder == null));
             c = new Color(r.nextInt(255),r.nextInt(255),r.nextInt(255));
         }
 
@@ -155,12 +162,15 @@ public class Test extends JEngineGame {
         public void aiComplete() {
             Random r = new Random();
             Point p = new Point(r.nextInt(50),r.nextInt(50));
-            pathfinder.setTarget(p);
+            aiPathfinder = parent.generator.calculatePath(p,this,new TileBased(16));
         }
 
         @Override
-        public void render(Graphics g) {
-            pathfinder.renderInfo(g);
+        public void render(Graphics g) {   System.out.println("Entity: " + String.valueOf(aiPathfinder == null));
+            if(aiPathfinder != null) {
+                System.out.println("Rendering pathfinder");
+                aiPathfinder.renderInfo(g);
+            }
             g.setColor(c);
          //   g.fillRect(getX(), getY(), 20, 20);
             Rectangle current = new Rectangle(getX()+ (20/2),getY() + (20 /2),20/4,20/4);
@@ -174,7 +184,8 @@ public class Test extends JEngineGame {
         @Override
         public void update() {
          //   if(i == 5) {
-                pathfinder.update();
+            if(aiPathfinder != null)
+                aiPathfinder.update();
            //     i = 0;
           //  }
          //   i++;
